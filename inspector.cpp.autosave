@@ -1,0 +1,3 @@
+#include "inspector.h"
+
+InspectorWindow::InspectorWindow() : EditorWindow("Inspector") {}
